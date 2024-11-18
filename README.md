@@ -5,7 +5,7 @@
 
 
 `CRISPR_analysis-20230912T155247Z-001.zip`
- - File can be found on Figshare ([https://figshare.com/account/projects/184459/articles/24459718](https://figshare.com/account/projects/184459/articles/24459718))
+ - File can be found on Figshare ([https://dx.doi.org/10.6084/m9.figshare.24459718](https://dx.doi.org/10.6084/m9.figshare.24459718))
  - This file contains the output of the single gRNA CRISPR screens including a readme describing how the data was processed through CRISPRcleanR, quality controlled and how BAGEL and MAGeCK were deployed. Output column descriptors are also provided. 
 
 
