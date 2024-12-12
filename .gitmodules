@@ -1,0 +1,3 @@
+[submodule "targeting_CDS1-CDS2-axis_parlogs"]
+	path = targeting_CDS1-CDS2-axis_parlogs
+	url = https://github.com/team113sanger/targeting_CDS1-CDS2-axis_parlogs.git
