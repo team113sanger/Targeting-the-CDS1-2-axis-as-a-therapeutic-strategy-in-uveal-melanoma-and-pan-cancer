@@ -8,8 +8,7 @@ The analyses were conducted by several authors in the Adams group at the Wellcom
 
 ## Project Overview
 
-The project was to investigate the 
-
+The sub-analyses of the project, authors who performed them and repositories they correspond to are:  
 - Transcriptome analysis: `Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq` (mdc1@sanger.ac.uk)
 - Exome analysis: `Gen_Effects_CDS2_loss_Uveal_melanoma_WES` (mdc1@sanger.ac.uk)
 - Paralog analysis: `targeting_CDS1-CDS2-axis_parlogs` (da1@sanger.ac.uk)
