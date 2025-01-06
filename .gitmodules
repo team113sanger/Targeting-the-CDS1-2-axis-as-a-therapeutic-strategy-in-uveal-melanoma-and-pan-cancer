@@ -1,3 +1,6 @@
 [submodule "targeting_CDS1-CDS2-axis_parlogs"]
 	path = targeting_CDS1-CDS2-axis_parlogs
 	url = https://github.com/team113sanger/targeting_CDS1-CDS2-axis_parlogs.git
+[submodule "uveal_melanoma_dual_guide_CRISPR"]
+	path = uveal_melanoma_dual_guide_CRISPR
+	url = https://github.com/dlalexander/uveal_melanoma_dual_guide_CRISPR
