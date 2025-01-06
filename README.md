@@ -10,11 +10,11 @@ The analyses were conducted by several authors in the Adams group at the Wellcom
 
 The project was to investigate the 
 
-- Transcriptome analysis: TBC (mdc1@sanger.ac.uk)
-- Exome analysis: TBC (mdc1@sanger.ac.uk)
+- Transcriptome analysis: `Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq` (mdc1@sanger.ac.uk)
+- Exome analysis: `Gen_Effects_CDS2_loss_Uveal_melanoma_WES` (mdc1@sanger.ac.uk)
 - Paralog analysis: `targeting_CDS1-CDS2-axis_parlogs` (da1@sanger.ac.uk)
-Dual guide analysis: `uveal_melanoma_dual_guide_CRISPR` (da15@sanger.ac.uk)
-Single guide analysis: `single_guide_analysis` (vo1@sanger.ac.uk)
+- Dual guide analysis: `uveal_melanoma_dual_guide_CRISPR` (da15@sanger.ac.uk)
+- Single guide analysis: `single_guide_analysis` (vo1@sanger.ac.uk)
 
 ## Contact 
 
