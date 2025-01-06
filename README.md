@@ -4,7 +4,7 @@ This repository serves as the central landing page for multiple sub-analyses rel
 
 > **_Targeting the CDS1/2 axis as a therapeutic strategy in uveal melanoma and pan-cancer_**
 
-The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each  sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results.
+The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each  sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/projects/Targeting_the_CDS1_2_axis_as_a_therapeutic_strategy_in_uveal_melanoma_and_pan_cancer/184459)
 
 ## Project Overview
 
