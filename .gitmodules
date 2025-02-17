@@ -7,3 +7,6 @@
 [submodule "uveal_melanoma_single_guide_processing"]
 	path = uveal_melanoma_single_guide_processing
 	url = git@github.com:team113sanger/uveal_melanoma_single_guide_processing.git
+[submodule "uveal_melanoma_CRISPR_downstream"]
+	path = uveal_melanoma_CRISPR_downstream
+	url = git@github.com:team113sanger/uveal_melanoma_CRISPR_downstream.git
