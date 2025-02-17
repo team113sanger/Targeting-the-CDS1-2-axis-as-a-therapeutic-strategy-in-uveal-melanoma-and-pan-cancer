@@ -4,3 +4,6 @@
 [submodule "uveal_melanoma_dual_guide_CRISPR"]
 	path = uveal_melanoma_dual_guide_CRISPR
 	url = https://github.com/dlalexander/uveal_melanoma_dual_guide_CRISPR
+[submodule "uveal_melanoma_single_guide_processing"]
+	path = uveal_melanoma_single_guide_processing
+	url = git@github.com:team113sanger/uveal_melanoma_single_guide_processing.git
