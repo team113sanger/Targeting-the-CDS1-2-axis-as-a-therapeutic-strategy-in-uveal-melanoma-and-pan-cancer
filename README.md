@@ -19,7 +19,7 @@ The sub-analyses of the project, authors who performed them and repositories the
 - Exome analysis: `Gen_Effects_CDS2_loss_Uveal_melanoma_WES` (mdc1@sanger.ac.uk)
 - Single guide pre-processing: `uveal_melanoma_single_guide_processing` [![DOI](https://zenodo.org/badge/934196809.svg)](https://doi.org/10.5281/zenodo.14988332) (vo1@sanger.ac.uk)
 - Single guide downstream analysis: `uveal_melanoma_CRISPR_downstream [![DOI](https://zenodo.org/badge/934233119.svg)](https://doi.org/10.5281/zenodo.14988612) (pyc1@sanger.ac.uk, im13@sanger.ac.uk)
-- Dual guide analysis: `uveal_melanoma_dual_guide_CRISPR` (da15@sanger.ac.uk)
+- Dual guide analysis: `uveal_melanoma_dual_guide_CRISPR`  [![DOI](https://doi.org/10.5281/zenodo.14988612)] (da15@sanger.ac.uk)
 - Comparison to DepMap and Paralog analysis: `targeting_CDS1-CDS2-axis_parlogs` (pyc1@sanger.ac.uk, sc14@sanger.ac.uk, da1@sanger.ac.uk)
 
 
