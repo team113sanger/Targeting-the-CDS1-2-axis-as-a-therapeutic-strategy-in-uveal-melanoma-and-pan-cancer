@@ -10,3 +10,7 @@
 [submodule "uveal_melanoma_CRISPR_downstream"]
 	path = uveal_melanoma_CRISPR_downstream
 	url = git@github.com:team113sanger/uveal_melanoma_CRISPR_downstream.git
+[submodule "Gen_Effects_CDS2_loss_Uveal_melanoma_WES"]
+	path = Gen_Effects_CDS2_loss_Uveal_melanoma_WES
+	url = git@github.com:team113sanger/Gen_Effects_CDS2_loss_Uveal_melanoma_WES.git
+	branch = main
