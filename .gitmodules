@@ -14,3 +14,6 @@
 	path = Gen_Effects_CDS2_loss_Uveal_melanoma_WES
 	url = git@github.com:team113sanger/Gen_Effects_CDS2_loss_Uveal_melanoma_WES.git
 	branch = main
+[submodule "Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq"]
+	path = Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq
+	url = git@github.com:team113sanger/Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq.git
