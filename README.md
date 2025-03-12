@@ -15,8 +15,8 @@ unzip bundle.zip
 ## Project Overview
 
 The sub-analyses of the project, authors who performed them and repositories they correspond to are:  
-- Transcriptome analysis of _CDS2_ targeted cell-lines: `Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq` (mdc1@sanger.ac.uk)
-- Exome analysis of _CDS2_ targeted cell-lines: `Gen_Effects_CDS2_loss_Uveal_melanoma_WES` (mdc1@sanger.ac.uk)
+- Transcriptome analysis of _CDS2_ targeted cell-lines: `Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq` [![DOI](https://zenodo.org/badge/935383929.svg)](https://doi.org/10.5281/zenodo.15007424) (mdc1@sanger.ac.uk)
+- Exome analysis of _CDS2_ targeted cell-lines: `Gen_Effects_CDS2_loss_Uveal_melanoma_WES` [![DOI](https://zenodo.org/badge/935383303.svg)](https://doi.org/10.5281/zenodo.15007268) (mdc1@sanger.ac.uk)
 - Single guide pre-processing: `uveal_melanoma_single_guide_processing` [![DOI](https://zenodo.org/badge/934196809.svg)](https://doi.org/10.5281/zenodo.14988332) (vo1@sanger.ac.uk)
 - Single guide downstream analysis: `uveal_melanoma_CRISPR_downstream [![DOI](https://zenodo.org/badge/934233119.svg)](https://doi.org/10.5281/zenodo.14988612) (pyc1@sanger.ac.uk, im13@sanger.ac.uk)
 - Dual guide analysis: `uveal_melanoma_dual_guide_CRISPR` [![DOI](https://zenodo.org/badge/944465012.svg)](https://doi.org/10.5281/zenodo.14988816)
