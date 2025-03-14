@@ -1,9 +1,6 @@
-[submodule "targeting_CDS1-CDS2-axis_parlogs"]
-	path = targeting_CDS1-CDS2-axis_parlogs
-	url = https://github.com/team113sanger/targeting_CDS1-CDS2-axis_parlogs.git
 [submodule "uveal_melanoma_dual_guide_CRISPR"]
 	path = uveal_melanoma_dual_guide_CRISPR
-	url = https://github.com/dlalexander/uveal_melanoma_dual_guide_CRISPR
+	url = git@github.com:team113sanger/uveal_melanoma_dual_guide_CRISPR
 [submodule "uveal_melanoma_single_guide_processing"]
 	path = uveal_melanoma_single_guide_processing
 	url = git@github.com:team113sanger/uveal_melanoma_single_guide_processing.git
@@ -17,3 +14,6 @@
 [submodule "Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq"]
 	path = Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq
 	url = git@github.com:team113sanger/Gen_Effects_CDS2_loss_Uveal_melanoma_RNAseq.git
+[submodule "uveal_melanoma_specific_vulnerabilities"]
+	path = uveal_melanoma_specific_vulnerabilities
+	url = git@github.com:team113sanger/uveal_melanoma_specific_vulnerabilities.git
