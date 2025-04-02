@@ -17,3 +17,6 @@
 [submodule "uveal_melanoma_specific_vulnerabilities"]
 	path = uveal_melanoma_specific_vulnerabilities
 	url = git@github.com:team113sanger/uveal_melanoma_specific_vulnerabilities.git
+[submodule "targeting_CDS1_CDS2_axis_pub_figures"]
+	path = targeting_CDS1_CDS2_axis_pub_figures
+	url = https://github.com/team113sanger/targeting_CDS1_CDS2_axis_pub_figures.git
